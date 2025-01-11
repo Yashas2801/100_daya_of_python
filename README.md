@@ -1,2 +1,2 @@
-# 100_daya_of_python
-Learning python #100 day challenge
+# 100_days_of_python
+Learning python #100 days challenge
