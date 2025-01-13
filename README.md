@@ -6,3 +6,4 @@ A journey of learning and creating! Each day, I explore new Python concepts and 
 - **Day 2**: Tip Calculator  
 - **Day 3**: Treasure Island Adventure  
 - **Day 4**: Rock, Paper, Scissors  
+- **Day 5**: Random Password Generator
